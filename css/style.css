@@ -164,6 +164,7 @@ html {
     width: 400px;
     background-image: url("/JUANLandingPage/imagenes/juan-circle.png");
     background-size: cover;
+    background-position: center;
     position: relative;
     border-radius: 50%;
     top: 190px;
@@ -171,6 +172,9 @@ html {
   }
     
   .hero__text__bg {
+    text-align: center;
+    float: right;
+    color: #2d314d;
     width: 25%;
     height: 25%;
     left: 500px;
@@ -228,7 +232,7 @@ html {
     position: relative;
     width: 18%;
     height: 500px;
-    background-color: #31d35c;
+    background-color: white;
   }
 
   .team__container 
@@ -282,7 +286,7 @@ html {
   
   .footer__copyright {
     font-size: 0.8125rem;
-    color: #9698a6;
+    color: white;
     text-align: right;
     -ms-grid-column-align: end;
         justify-self: end;
