@@ -29,13 +29,13 @@ html {
     line-height: 1.15;
     color: #05213D;
     margin-top: 0px;
-    font-size: 75px;
+    font-size: 65px;
     margin-bottom:  15px;
     size: 100%;
   }
     
   p {
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 50px;
     margin-bottom: 2.25rem;
   }
@@ -238,13 +238,13 @@ html {
  
   .whyJuan {
     background-color: #EFF0EB;
-    height: 1250px;
+    height: 1500px;
   }
   
   .whyJuan__image {
     position: absolute;
-    width: 800px;
-    height: 800px;
+    width: 600px;
+    height: 600px;
     position: relative;
     left: 25%;
     background-image: url("/JUANLandingPage/imagenes/placeholder.png");
