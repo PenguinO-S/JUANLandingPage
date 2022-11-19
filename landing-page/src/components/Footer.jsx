@@ -6,7 +6,7 @@ function Footer() {
     <footer>
         <ul>
         <div className='footer-left'>
-            <a href="#" className='logo'>
+            <a href="#" className='logoo'>
                 <img src={logo} alt="" />
             </a>
         </div>

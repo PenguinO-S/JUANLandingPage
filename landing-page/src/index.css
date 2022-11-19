@@ -97,6 +97,7 @@ button, .button {
   cursor: pointer;
   color: white;
   font-weight: 400;
+  font-size: 20px;
 }
 
 
@@ -284,6 +285,7 @@ header{
 
 .nav li a{
   transition: all 0.3s ease 0s;
+  font-size: 25px;
 }
 .nav li a:hover{
   color:grey;
@@ -301,6 +303,7 @@ footer ul{
 footer .footer-right{
   float: right;
   padding: 0px 10px;
+  color: white;
 }
 .footer_left{
   width: 20px;
@@ -311,4 +314,14 @@ footer .footer-right{
   height: 440px;
   position: relative;
   left:650px;
+}
+
+.logoo{
+  cursor:pointer;
+  width: 90px;
+  height: 73px;
+
+}
+.logoo img{
+  width: 7%;
 }
