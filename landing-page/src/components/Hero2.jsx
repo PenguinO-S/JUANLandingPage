@@ -4,7 +4,7 @@ import image from '../images/coding.png'
 function Hero2() {
   return (
 
-    <section class ="hero2">
+    <section class ="hero2" id="hero2">
     <div class="hero_image_left"><img src={image} alt=""/></div>
     <h2 class="hero_title_right">¿Por qué deberías usar J.U.A.N?</h2>
     <p class="hero__text__right">J.U.A.N es un foro exclusivo para los estudiantes de programación de la Universidad Peruana de Ciencias Aplicadas, en el que podrás poner a prueba tus habilidades resolviendo problemas clásicos de programación, haciendo uso de lo aprendido en clase.

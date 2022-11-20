@@ -8,7 +8,7 @@ import member5 from '../images/Sofia.png'
 
 function Team() {
   return (
-    <section class ="hero">
+    <section class ="hero" id="team">
     <br/>
     <h2 class="team__title">PenguinOS</h2>
     <div class='team__container'>
