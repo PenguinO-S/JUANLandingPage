@@ -1,12 +1,12 @@
 import React from 'react'
-import logo from "./images/logo.png"
+import logo from "../images/juan_mostacho.png"
 
 function Footer() {
   return (
     <footer>
         <ul>
         <div className='footer-left'>
-            <a href="#" className='logo'>
+            <a href="#" className='logoo'>
                 <img src={logo} alt="" />
             </a>
         </div>
