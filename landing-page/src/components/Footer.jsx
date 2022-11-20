@@ -19,7 +19,7 @@ function Footer() {
             </a>
         </div>
         <div className='footer-right'>
-            <a href="#" className='button_header_cta'>Crear Cuenta</a>
+            <a href="#" className='button header_cta'>Crear Cuenta</a>
             <h6>© J.U.A.N by PenguinOS All Rights Reserved</h6>
         </div>
         </ul>
