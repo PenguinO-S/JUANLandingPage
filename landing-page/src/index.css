@@ -295,6 +295,7 @@ footer{
   position: relative;
   overflow: hidden;
   background-color: #05213D;
+  font-family: "Roboto Mono";
 }
 footer ul{
   align-items:baseline;
@@ -324,4 +325,19 @@ footer .footer-right{
 }
 .logoo img{
   width: 7%;
+}
+
+.fb img{
+  width: 50px;
+  position:relative;
+  float:left;
+  top:150px;
+  left:90px;
+}
+.insta img{
+  width: 50px;
+  position:relative;
+  float:left;
+  top:150px;
+  left:120px;
 }
