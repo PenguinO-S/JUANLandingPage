@@ -6,7 +6,7 @@ function Video() {
       <br/>
       <h2 class="team__title">Video demostrativo</h2>
       <iframe class="video"
-      src="https://www.youtube.com/embed/tgbNymZ7vqY">
+      src="https://www.youtube.com/embed/sP2dwoBlKGw">
       </iframe>
     </section>
   )
